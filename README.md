@@ -1,7 +1,7 @@
 # UI-UX-Experiment3
 
 ## Aim:
- To perform a heuristic evaluation of an existing website or app, compare and analyze the user experience (UX) of 2–3 competing apps or websites, and develop and incorporate required changes based on the analysis.
+  To perform a heuristic evaluation of an existingwebsite or app, compare and analyze the user experience (UX) of 2–3 competing apps or websites, and develop and incorporate required changes based on the analysis.
 ## Algorithm:
 1. Select the primary website or app to evaluate.
 
