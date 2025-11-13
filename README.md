@@ -1,5 +1,6 @@
 # UI-UX-Experiment3
-
+# NAME: SHANMUGAKARTHIK G
+# REG.NO: 212223220105
 ## Aim:
   To perform a heuristic evaluation of an existingwebsite or app, compare and analyze the user experience (UX) of 2–3 competing apps or websites, and develop and incorporate required changes based on the analysis.
 ## Algorithm:
